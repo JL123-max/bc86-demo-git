@@ -12,4 +12,10 @@ git config --global user.email "..."
 2. chuyen folder code sang local repo:
    + git init
 3. thit lap ket noi giua: local repo (laptop) va remote repo (github)
-    -git remote add origin https://github.com/JL123-max/bc86-demo-git.git
+    -git remote add origin + github_repo_url (https://github.com/.../bc86-demo-git.git)
+4. Dua file code tu laptop len github
+    - git add -A
+    - git commit -m "message"
+    - git push
+        -- lan 1: git push -u origin master
+        --
