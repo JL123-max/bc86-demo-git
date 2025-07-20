@@ -15,7 +15,7 @@ git config --global user.email "..."
     -git remote add origin + github_repo_url (https://github.com/.../bc86-demo-git.git)
 4. Dua file code tu laptop len github
     - git add -A
-    - git commit -m "message"
-    - git push
+    - git commit -m "message (thong tin can truyen tai)"
+    - git push:
         -- lan 1: git push -u origin master
-        --
+        -- lan 2+: 2 buoc tren + git push
