@@ -26,5 +26,9 @@ git config --global user.email "..."
     +tao branch/ nhanh tren github
         -git checkout -b login(ten_nhanh)
     + chuyen nhanh
+<<<<<<< HEAD
         - git checkout ten_nhanh
         
+=======
+        - git checkout ten_nhanh
+>>>>>>> login
