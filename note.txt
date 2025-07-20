@@ -28,3 +28,10 @@ git config --global user.email "..."
     + chuyen nhanh
         - git checkout ten_nhanh
     + git merge login    
+
+6. tao clone/git pull/lay source code
+    -tao folder clone
+    - tai do/ in terminal
+        --git clone url_address
+        -->open in integrated terminal
+        --git pull
