@@ -17,5 +17,13 @@ git config --global user.email "..."
     - git add -A
     - git commit -m "message (thong tin can truyen tai)"
     - git push:
-        -- lan 1: git push -u origin master
+        -- lan 1: git push -u origin master (branch/login/ thuong ten nhiem vu)
         -- lan 2+: 2 buoc tren + git push
+
+
+
+5. branch
+    +tao branch/ nhanh tren github
+        -git checkout -b login(ten_nhanh)
+    + chuyen nhanh
+        - git checkout ten_nhanh
