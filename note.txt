@@ -1,0 +1,15 @@
+
+
+---- xac thuc laptop va github -----
+git config --global user.name "..."
+git config --global user.email "..."
+
+
+
+-----cac buoc khi tao repo github de nop bai ---
+
+1. tao repo tren github (remote repo)
+2. chuyen folder code sang local repo:
+   + git init
+3. thit lap ket noi giua: local repo (laptop) va remote repo (github)
+    -git remote add origin https://github.com/JL123-max/bc86-demo-git.git
